@@ -1,0 +1,7 @@
+{
+  "name": "Aventura nas Ilhas Perdidas",
+  "description": "Jogo de plataforma 2D e laboratório de física para feira de ciências escolar, com ilhas temáticas, Mundo da Lua e experimentos de gravidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
